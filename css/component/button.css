@@ -1,0 +1,16 @@
+
+
+.btn-blue{color: #6666ff;
+  text-decoration: none;
+  transition: color 0.1s ease;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+  .btn-blue:hover {
+  color: #000080;
+  text-decoration: none;
+}
+
+ 

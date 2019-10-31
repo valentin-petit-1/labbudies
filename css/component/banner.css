@@ -1,0 +1,9 @@
+.banner{background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%),
+	url("https://www.cdc.gov/labtraining/images/training-courses/basic-molecular-biology/basic-molecular-biology-banner-1-large.jpg");
+background-size: cover;
+background-position: center;
+padding: 40px;
+}
+
+.banner h1{color: #FAF0E6;}
+.banner h2{color: #FAF0E6;}

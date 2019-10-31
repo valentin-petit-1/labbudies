@@ -1,0 +1,46 @@
+@import url("component/banner.css");
+@import url("component/container.css");
+@import url("component/avatar.css");
+@import url("component/comande.css");
+@import url("component/card.css");
+@import url("component/cards.css");
+@import url('https://fonts.googleapis.com/css?family=Nunito|Poppins|Raleway&display=swap');
+
+
+
+
+body{font-family: 'Raleway', sans-serif;
+font-size: 18px;
+text-align: center;
+line-height: 35px;
+letter-spacing: 2px;
+}
+
+h1{font-family: 'Poppins', sans-serif;
+font-size: 45px;
+text-align: center}
+
+h2{font-family: 'Nunito', sans-serif;
+font-size: 35px;
+font-weight: bold;
+text-align: center;
+}
+
+div{margin: 35px;}
+
+#commandes1{box-shadow: 5px 5px 5px rgba(0,0,0,0.5) ;
+background-color: #fffff0;
+  padding: 1em 1.5em;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+border-radius: 5%}
+
+#fb{width: 70px;
+height: 70px; }
+
+#lienreseaux{text-align: below}
+
+.typeform-widget{margin: 5px auto;
+position: center}
+
